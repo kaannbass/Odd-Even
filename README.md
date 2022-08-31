@@ -1,7 +1,7 @@
 # Akbank-Web3-Practicum
 
-Bir sayının Tek mi Çift mi olduğunu belirleyen bir işlev oluşturun. Bir sayı, tüm basamaklarının toplamı tek ise tek, tüm basamaklarının toplamı çift ise bir sayıdır. Bir sayı tek ise, "Odd" döndürün. Aksi takdirde, "Even" değerini döndürün. Örnek olarak:
-
+Bir sayının Tek mi Çift mi olduğunu belirleyen bir işlev oluşturuldu. Bir sayı, tüm basamaklarının toplamı tek ise tek, tüm basamaklarının toplamı çift ise bir sayıdır. Bir sayı tek ise, "Odd" dönmektedir. Aksi takdirde, "Even" değerini dönmektedir. Örnek olarak:
+<br>
 oddishOrEvenish(43) ➞ "Odd"
 // 4 + 3 = 7
 // 7 % 2 = 1
